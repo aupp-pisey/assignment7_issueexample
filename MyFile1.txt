@@ -1,0 +1,20 @@
+THIS IS MY 1st FILE FOR BRANCH DEMO.
+
+ADD THIS LINE INSIDE CLOUD BRANCH 1 IN GIT CLOUD
+
+ADD THIS LINE INSIDE LOCAL BRANCH 1 IN LOCAL MACHINE.
+
+
+from local update
+
+
+Collaboration is updated
+
+
+Upated 00000000000000000000
+
+This is added by local developer
+
+this is updated from local pc without pulling
+this is add from collabrotaion piseydba
+
